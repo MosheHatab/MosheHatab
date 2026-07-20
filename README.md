@@ -1,14 +1,11 @@
-<!-- Blueprint Architect — light/dark header -->
+<!-- Header -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=220&section=header&text=Moshe%20Hatab&fontSize=52&fontAlignY=38&desc=Senior%20Software%20Specialist%20%C2%B7%20Web%2C%20PWA%20%26%20Mobile&descSize=17&descAlignY=58&descAlign=50&color=0:22D3EE,100:060D18&fontColor=F1F5F9" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&section=header&text=Moshe%20Hatab&fontSize=52&fontAlignY=38&desc=Senior%20Software%20Specialist%20%C2%B7%20Web%2C%20PWA%20%26%20Mobile&descSize=17&descAlignY=58&descAlign=50&color=0:0284C7,100:0C4A6E&fontColor=F0F9FF" alt="Moshe Hatab — Senior Software Specialist" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&section=header&text=Moshe%20Hatab&fontSize=52&fontAlignY=38&desc=Senior%20Software%20Specialist%20%C2%B7%20Web%2C%20PWA%20%26%20Mobile&descSize=17&descAlignY=58&descAlign=50&color=0:0284C7,100:0C4A6E&fontColor=F0F9FF" alt="Moshe Hatab" width="100%" />
 </picture>
 
 <p align="center">
-  <strong>Senior Software Specialist</strong> — scalable, secure web and mobile products, from architecture through production.
-</p>
-
-<p align="center">
+  <strong>Senior Software Specialist</strong> — scalable, secure web and mobile products, from architecture through production.<br/>
   20+ years building production systems · enterprise scale + indie products shipped
 </p>
 
@@ -16,6 +13,12 @@
   <a href="https://main.d2l6058lisw6jp.amplifyapp.com"><img src="https://img.shields.io/badge/Portfolio-View_work-0284C7?style=for-the-badge&logo=googlechrome&logoColor=F0F9FF" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/moshe-hatab-b24774143/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0C4A6E?style=for-the-badge&logo=linkedin&logoColor=F0F9FF" alt="LinkedIn" /></a>
   <a href="https://x.com/MosheHatab"><img src="https://img.shields.io/badge/X-@MosheHatab-0369A1?style=for-the-badge&logo=x&logoColor=F0F9FF" alt="X" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MosheHatab?label=Followers&style=flat-square&color=0284C7&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/MosheHatab?label=Stars&style=flat-square&color=0C4A6E&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Stack-React_%7C_TS_%7C_AWS-0369A1?style=flat-square" alt="Stack" />
 </p>
 
 <p align="center">
@@ -28,13 +31,7 @@
   <img src="https://img.shields.io/badge/Android-0C4A6E?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MosheHatab&show_icons=true&theme=transparent&title_color=0284C7&text_color=0C4A6E&icon_color=0284C7&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" height="165" />
-</p>
-
----
-
-## About
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=About&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="About" width="100%" />
 
 I'm a senior software specialist with 20+ years in the industry. By day I work at **Amdocs**, building and maintaining large-scale production systems for tier-1 telecom customers. I contributed to **[Harmony 2.0](https://github.com/Amdocs-Studio/harmony-2.0)** — an open-source React starter kit published under Amdocs-Studio.
 
@@ -42,9 +39,7 @@ Outside that role I design and ship my own products: PWAs, mobile apps, npm libr
 
 **Freelance & consulting:** custom websites, web apps, PWAs, mobile (Android / Unity), APIs, and cloud architecture. [Get in touch →](https://main.d2l6058lisw6jp.amplifyapp.com/#contact)
 
----
-
-## Selected work
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=Selected%20Work&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="Selected Work" width="100%" />
 
 | Project | What it is | Links |
 |--------|------------|-------|
@@ -54,9 +49,7 @@ Outside that role I design and ship my own products: PWAs, mobile apps, npm libr
 | **Multi-Layer Radial Chart** | Apple Watch–style activity rings — React 19 SVG + npm package | [npm](https://www.npmjs.com/package/multi-layer-radial-chart) · [Demo](https://multi-layer-radial-chart-five.vercel.app/) · [Code](https://github.com/MosheHatab/multi-layer-radial-chart) |
 | **Mechanical Keyboard Simulator** | Unity Android game — freemium, AdMob, Play Games cloud save | [Google Play](https://play.google.com/store/apps/details?id=com.mechanicalkeyboard.simulator) |
 
----
-
-## Tech stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=Tech%20Stack&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="Tech Stack" width="100%" />
 
 | | |
 |---|---|
@@ -66,13 +59,9 @@ Outside that role I design and ship my own products: PWAs, mobile apps, npm libr
 | **Cloud & DevOps** | AWS Amplify, serverless, CI/CD (GitHub Actions), Google Play publishing |
 | **i18n** | Multi-language apps, RTL (English / Hebrew) |
 
----
-
-## How I work
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=How%20I%20Work&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="How I Work" width="100%" />
 
 Discovery → Design → Build → Ship → Support — with clear communication, quality, and ownership at every step.
-
----
 
 <p align="center">
   <sub>Full portfolio, services, and contact form at <a href="https://main.d2l6058lisw6jp.amplifyapp.com"><strong>main.d2l6058lisw6jp.amplifyapp.com</strong></a></sub>
