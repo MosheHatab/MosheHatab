@@ -48,4 +48,4 @@ Discovery → Design → Build → Ship → Support — with clear communication
 
 ---
 
-<sub>Full portfolio, services, and contact form at **[moshehatab.dev](https://moshehatab.dev)**</sub>
+<sub>Full portfolio, services, and contact form at **[moshehatab.dev](https://main.d2l6058lisw6jp.amplifyapp.com)**</sub>
