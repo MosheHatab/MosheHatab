@@ -14,7 +14,7 @@ I'm a senior software specialist with 20+ years in the industry. By day I work a
 
 Outside that role I design and ship my own products: PWAs, mobile apps, npm libraries, and backend services — with the same rigor you'd expect from enterprise software.
 
-**Freelance & consulting:** custom websites, web apps, PWAs, mobile (Android / Unity), APIs, and cloud architecture. [Get in touch →](https://moshehatab.dev/#contact)
+**Freelance & consulting:** custom websites, web apps, PWAs, mobile (Android / Unity), APIs, and cloud architecture. [Get in touch →](https://main.d2l6058lisw6jp.amplifyapp.com/#contact)
 
 ---
 
