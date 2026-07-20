@@ -4,7 +4,7 @@
 
 20+ years building production systems · enterprise scale + indie products shipped
 
-[Portfolio](https://moshehatab.dev) · [LinkedIn](https://www.linkedin.com/in/moshe-hatab-b24774143/) · [X](https://x.com/MosheHatab)
+[Portfolio](https://main.d2l6058lisw6jp.amplifyapp.com) · [LinkedIn](https://www.linkedin.com/in/moshe-hatab-b24774143/) · [X](https://x.com/MosheHatab)
 
 ---
 
