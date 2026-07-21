@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Android-0C4A6E?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=About&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="About" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=About&fontSize=28&fontAlignY=20&color=0:0284C7,100:0C4A6E&fontColor=F0F9FF" alt="About" width="100%" />
 
 I'm a senior software specialist with 20+ years in the industry. By day I work at **Amdocs**, building and maintaining large-scale production systems for tier-1 telecom customers. I contributed to **[Harmony 2.0](https://github.com/Amdocs-Studio/harmony-2.0)** — an open-source React starter kit published under Amdocs-Studio.
 
@@ -39,7 +39,7 @@ Outside that role I design and ship my own products: PWAs, mobile apps, npm libr
 
 **Freelance & consulting:** custom websites, web apps, PWAs, mobile (Android / Unity), APIs, and cloud architecture. [Get in touch →](https://main.d2l6058lisw6jp.amplifyapp.com/#contact)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=Selected%20Work&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="Selected Work" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Selected%20Work&fontSize=28&fontAlignY=20&color=0:0284C7,100:0C4A6E&fontColor=F0F9FF" alt="Selected Work" width="100%" />
 
 | Project | What it is | Links |
 |--------|------------|-------|
@@ -49,7 +49,7 @@ Outside that role I design and ship my own products: PWAs, mobile apps, npm libr
 | **Multi-Layer Radial Chart** | Apple Watch–style activity rings — React 19 SVG + npm package | [npm](https://www.npmjs.com/package/multi-layer-radial-chart) · [Demo](https://multi-layer-radial-chart-five.vercel.app/) · [Code](https://github.com/MosheHatab/multi-layer-radial-chart) |
 | **Mechanical Keyboard Simulator** | Unity Android game — freemium, AdMob, Play Games cloud save | [Google Play](https://play.google.com/store/apps/details?id=com.mechanicalkeyboard.simulator) |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=Tech%20Stack&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="Tech Stack" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Tech%20Stack&fontSize=28&fontAlignY=20&color=0:0284C7,100:0C4A6E&fontColor=F0F9FF" alt="Tech Stack" width="100%" />
 
 | | |
 |---|---|
@@ -59,10 +59,10 @@ Outside that role I design and ship my own products: PWAs, mobile apps, npm libr
 | **Cloud & DevOps** | AWS Amplify, serverless, CI/CD (GitHub Actions), Google Play publishing |
 | **i18n** | Multi-language apps, RTL (English / Hebrew) |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0C4A6E&height=80&section=footer&text=How%20I%20Work&fontSize=28&fontAlignY=72&fontColor=F0F9FF" alt="How I Work" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=How%20I%20Work&fontSize=28&fontAlignY=20&color=0:0284C7,100:0C4A6E&fontColor=F0F9FF" alt="How I Work" width="100%" />
 
 Discovery → Design → Build → Ship → Support — with clear communication, quality, and ownership at every step.
 
 <p align="center">
-  <sub>Full portfolio, services, and contact form at <a href="https://main.d2l6058lisw6jp.amplifyapp.com"><strong>main.d2l6058lisw6jp.amplifyapp.com</strong></a></sub>
+  <sub>Full portfolio, services, and contact form at <a href="https://main.d2l6058lisw6jp.amplifyapp.com"><strong>MosheHatab.dev</strong></a></sub>
 </p>
